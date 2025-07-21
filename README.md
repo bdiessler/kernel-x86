@@ -58,5 +58,13 @@ El kernel implementa desde cero mecanismos esenciales de un sistema operativo mo
 - Diseño de sistemas operativos: administración de memoria, multitarea, scheduling, protección y privilegios.
 
 ---
+## Capturas de pantalla
 
+![Presentacion](TPSP/img/kernel-index.jpg)
+
+![Lobby](TPSP/img/kernel-lobby.jpg)
+
+![Game](TPSP/img/kernel-game.jpg)
+
+---
 Este proyecto es una base sólida para comprender el funcionamiento interno de un sistema operativo y la arquitectura x86, permitiendo experimentar y modificar cada componente fundamental del kernel.
